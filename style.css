@@ -13,8 +13,6 @@
     margin-bottom: 100px;
 }
 .my_carousel_img{
-    /* background-image: linear-gradient(rgb(78, 78, 78), rgb(112, 112, 112)); */
-    /* background-image: gray; */
     filter: brightness(50%);
 }
 @media only screen and (max-width: 767px) {
