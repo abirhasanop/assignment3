@@ -1,0 +1,12 @@
+.explore_img{
+    width: 40%;
+}
+.explore_info{
+    background-color: #F4FAFD;
+    width: 60%;
+}
+.my_carousel_img{
+    /* background-image: linear-gradient(rgb(78, 78, 78), rgb(112, 112, 112)); */
+    /* background-image: gray; */
+    filter: brightness(50%);
+}
