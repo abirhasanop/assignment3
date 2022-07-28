@@ -14,4 +14,13 @@
     .carousel-inner{
         height: 450px;
     }
+    .explore_img {
+        width: 100%;
+    }
+    
+    .explore_info {
+        background-color: #F4FAFD;
+        width: 100%;
+    }
+    
 }
